@@ -1,0 +1,36 @@
+.about-sec {
+    margin-top: 30px;
+    font-family: avenir;
+
+}
+
+.description {
+    padding-top: 40px;
+}
+.about-sec .main-title{
+    margin-bottom: 80px !important;
+}
+.description p {
+    color: #7D7E82;
+    text-align: right;
+    font-size: 19px;
+    font-style: normal;
+    font-weight: 300;
+    line-height:45px ;
+    width: 600px;
+    margin-bottom: 40px;
+}
+ .des-btn{
+    background: rgb(255, 255, 255, 1);
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    width: 120px;
+    height: 40px;
+    font-size: 16px;
+    font-weight: 300;
+    line-height: normal;
+    border-radius: 25px;
+    color: rgba(0, 173, 238, 1);
+    border:1px solid rgba(0, 173, 238, 1) ;
+}

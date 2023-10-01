@@ -1,0 +1,84 @@
+footer {
+    border-radius: 20px 20px 0px 0px;
+    background: #E5F7FD;
+    margin-top: 70px !important;
+    padding-top: 70px !important;
+    font-family:avenir  ;
+
+}
+
+.footer-logo {
+    width: 150px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.clean-desc {
+    color: #7D7E82;
+    text-align: right;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: normal;
+    margin-top: 12px;
+    width: 235px;
+}
+
+.col-header {
+    color: #000;
+    text-align: right;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: normal;
+}
+
+.col-item {
+    color: #7D7E82;
+    text-align: right;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: normal;
+}
+.info-box{
+    color: #7D7E82;
+    text-align: right;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: normal;
+}
+.phone-num,
+.email {
+    text-align: right;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.line {
+    width: 1200px ;
+    margin: auto;
+    height: 2px;
+}
+
+.end-footer {
+    color: #000;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: normal;
+}
+
+.map-sec {
+    width: 190px;
+    margin-top: 25px !important;
+}
+
+.map {
+    width: 180px;
+    height: 100px;
+}

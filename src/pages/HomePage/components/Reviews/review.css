@@ -1,0 +1,61 @@
+.review-sec {
+    padding-top: 90px;
+}
+
+.review-sec .main-title {
+    margin: auto;
+    margin-bottom: 80px !important;
+}
+
+.review-cards {
+    padding-top: 80px;
+
+}
+
+.review-card {
+    height: 248px;
+    border-radius: 20px;
+    background: #FFF;
+    box-shadow: 0px 8px 24px 0px rgba(0, 173, 238, 0.10);
+    cursor: pointer;
+    margin-bottom: 75px;
+    position: relative;
+    text-align: center;
+}
+
+.review-img {
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    position: absolute;
+    top: -55px;
+    right: 130px;
+}
+
+.review-desc {
+    margin-top: 95px;
+}
+
+.review-desc p {
+    margin-bottom: 18px;
+    font-size: 18px;
+    color: #000;
+}
+
+.review-desc h6 {
+    color: #2F3239;
+
+    font-size: 16px;
+}
+
+.qute1 {
+    position: absolute;
+    top: -10px;
+    right: -12px;
+}
+
+.qute2 {
+    position: absolute;
+    bottom: -10px;
+    left: -12px;
+}
